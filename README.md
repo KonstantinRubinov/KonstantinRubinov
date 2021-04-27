@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KonstantinRubinov
+- 👀 I’m interested in .Net / .NET Core / Node.js / Angular 7+ development
+- 🌱 I’m currently learning Nest.js
+- 💞️ I’m looking to collaborate on development
+- 📫 How to reach me facebook, vk, mail
