@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KonstantinRubinov
-- 👀 I’m interested in .Net / .NET Core / Node.js / Angular 7+ development / Java for Android / CRM Dynamics 365 / Azure technologies
+- 👀 I’m interested in .Net / .NET Core / Node.js / Angular 7+ development / React / Java for Android / CRM Dynamics / Azure technologies
 - 🌱 I’m currently learning Nest.js and Azure technologies
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me facebook, vk, mail
